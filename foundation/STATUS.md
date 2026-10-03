@@ -11,7 +11,7 @@
 ## Window
 
 - **Live edge:** none. Zero chapters. Foundation built from the twelve ruled
-  rows; three lanes open (R10, R11, R12).
+  rows; two lanes open (R11, R12).
 - **Clock:** day 0 is the same morning as Huo Yuhao's Shrek entry (R2) —
   the start of Soul Land 2, OC age eleven.
 - **Body:** male OC, Clear Sky Sect-born; twin martial souls — Clear Sky
@@ -32,8 +32,9 @@
 - Canon never displaced — parallel until the gates (R13).
 - Clear Sky Hammer unringed at day 1 (R6) — growth track.
 - Exact figures never in prose (R15, F22).
-- 🔴 Power ceiling: **OPEN (R10)** — no ceiling may be claimed anywhere in
-  this repo until ruled.
+- Power ceiling: **RULED (R10) — the No-Fix Law:** *"There is no fix in my
+  fen fiction, there is always thing's go naturally, this is rule."* No
+  fixed ceiling; growth goes naturally and is earned on page (k05).
 - 🔴 Clan posture: **OPEN (R11)** — nothing in prose or files commits how
   public the membership is.
 - 🔴 Lock 4 spine: **OPEN (R12)** — no arc may claim the story's want until

@@ -28,7 +28,8 @@
 |---|---|---|
 | 2026-09-30 | Stage 0 opened; lane table R1–R15 filed; drafting locked | `OPEN_RULINGS.md`, git 9e29ccf |
 | 2026-10-03 | defaults taken for R1–R9, R13–R15 | `RULINGS_LOG.md` |
-| 2026-10-03 | R10, R11, R12 remain open; Stage 0 stays locked | `OPEN_RULINGS.md` |
+| 2026-10-03 | R10 ruled — the No-Fix Law (no fixed ceiling; things go naturally) | `RULINGS_LOG.md` R10; Control Centre `decision#36` |
+| 2026-10-03 | R11, R12 remain open; Stage 0 stays locked | `OPEN_RULINGS.md` |
 | 2026-10-03 | Supergirl keeps its own standard (author) | Control Centre decisions |
 
 ## Rules

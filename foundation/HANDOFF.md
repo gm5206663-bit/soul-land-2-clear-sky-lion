@@ -9,8 +9,9 @@ in the order below, then do not write a word until you have.
   as Huo Yuhao's entry, level 29, unnamed so far.
 - **Chapters:** zero. That is correct, not a failure to start.
 - **Stage 0:** 12 of 15 lanes ruled (2026-10-03 defaults selection).
-  **R10 (ceiling), R11 (clan posture), R12 (Lock 4) are OPEN — drafting is
+  **R11 (clan posture), R12 (Lock 4) are OPEN — drafting is
   LOCKED** until the author answers them himself. No agent may answer them.
+  (R10 ceiling: RULED — the No-Fix Law, 2026-10-03.)
 - **The chapter gate:** does not exist yet. Build it before chapter 1
   (Stage 0 step 4). The foundation gate lives in the Control Centre:
   `python3 tools/foundation_gate.py <this repo>/`.
@@ -35,9 +36,10 @@ you fix the stale one the same turn with a dated receipt.
 
 ## The things that break this serial
 
-1. **Answering R10, R11 or R12 without the author's words.** They are open on
-   purpose. Inventing a ceiling or a spine is the exact failure the
-   Foundation-Stage law exists to prevent.
+1. **Answering R11 or R12 without the author's words.** They are open on
+   purpose. Inventing a spine or a clan posture is the exact failure the
+   Foundation-Stage law exists to prevent. (R10 is ruled: No-Fix Law — but
+   an agent may not *extend* it into invented declarations either.)
 2. **A System slipping in** (R7). No window, menu, screen, gauge, percentage,
    level or stat vocabulary — in prose or any foundation file. Adaptation
    embodies silently or not at all.

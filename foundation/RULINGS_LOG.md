@@ -95,9 +95,25 @@ exactly as written there:
 
 ---
 
+## Ruled 2026-10-03 (later same day) — R10, the author's own answer
+
+### R10 — Power ceiling (Lock 5)
+
+> **Author's words, verbatim:** "There is no fix in my fen fiction, there is
+> always thing's go naturally, this is rule,i advice you to check everything
+> completely everything in and understand everything completely"
+
+**Recorded as:** **no fixed ceiling** — nothing in this serial (or any of the
+author's fan fiction) is pinned in advance; growth goes naturally. The lock is
+filled by refusing to fill it: strongest he becomes is not pre-written, and
+nothing "never gets" is declared either. Same family as the System Cheat's
+NO-CEILING law. Filed as a universal decision in the Control Centre
+(`decision`, 2026-10-03).
+
+---
+
 ## OPEN — not ruled (2026-10-03)
 
-- **R10 — POWER CEILING (Lock 5):** no ruling given. Open.
 - **R11 — Clan posture (Lock 6):** no ruling given — omitted from the
   defaults list (agent error, recorded honestly). Open.
 - **R12 — THE SPINE (Lock 4):** no ruling given. Open. *Drafting stays

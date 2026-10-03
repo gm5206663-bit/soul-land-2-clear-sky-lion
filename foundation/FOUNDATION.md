@@ -38,7 +38,8 @@ never for canon.
   recruitment; the Shrek intake morning; Wang Dong's dorm meeting. All
   undisplaced (R13). ✅
 - **Spine (4):** 🔴 **OPEN — R12.** No agent may fill it.
-- **Power ceiling (5):** 🔴 **OPEN — R10.** No agent may fill it.
+- **Power ceiling (5):** **RULED by R10 — the No-Fix Law:** no fixed
+  ceiling; things go naturally (author's words, 2026-10-03).
 - **Identity (6):** partially open — membership posture is R11 🔴; what is
   ruled: he enters at the gates (R3), and the clan exists hidden, world thinks
   it extinct ~1000y (canon receipt in CANON_GROUND).

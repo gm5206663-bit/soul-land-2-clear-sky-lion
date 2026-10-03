@@ -31,10 +31,13 @@ about it prints a percentage on the page (k01).
 
 ## The ceiling
 
-🔴 **OPEN — R10 (Lock 5).** The strongest he ever becomes and what he never
-gets has **not been ruled**. Until it is, this file claims no ceiling, and
-no other file may either (STATUS bans clause). Do not build arcs that assume
-one.
+**RULED — R10, the No-Fix Law (author's words, 2026-10-03):** *"There is no
+fix in my fen fiction, there is always thing's go naturally, this is rule."*
+There is **no fixed ceiling** — not a rank, not an endpoint, not a "never".
+What he becomes is not pre-written; it goes naturally and is earned on page
+(k05). The absence of a pin is the lock: nothing in this serial may *declare*
+a cap in either direction, and chapter-end speculation never hardens into law
+(the Control Centre carries the same ruling as a universal `decision`, 2026-10-03).
 
 ## What never happens
 

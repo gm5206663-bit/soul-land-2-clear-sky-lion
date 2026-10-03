@@ -1,20 +1,23 @@
 # OPEN_RULINGS.md — Stage 0 · the decisions only the author can make
 
-> ## STATUS 2026-10-03 — R1 TO R15: 12 RULED, 3 OPEN
+> ## STATUS 2026-10-03 — R1 TO R15: 13 RULED, 2 OPEN
 >
-> **Ruled 2026-10-03 by selection "take_all" (defaults):** R1, R2, R3, R4,
-> R5, R6, R7, R8, R9, R13, R14, R15 — verbatim record in `RULINGS_LOG.md`.
+> **Ruled by selection "take_all" (defaults), 2026-10-03:** R1, R2, R3, R4,
+> R5, R6, R7, R8, R9, R13, R14, R15. **Ruled later same day, author's own
+> words:** R10 — the **No-Fix Law**: *"There is no fix in my fen fiction,
+> there is always thing's go naturally, this is rule."* No fixed ceiling.
+> Verbatim record in `RULINGS_LOG.md`.
 >
-> **STILL DRAFTING IS LOCKED.** Three lanes are open and none may be answered
-> by an agent:
+> **STILL DRAFTING IS LOCKED.** Two lanes are open and neither may be
+> answered by an agent:
 >
-> - **R10 — POWER CEILING (Lock 5)** — no default; strongest he becomes /
->   what he never gets.
 > - **R11 — Clan posture (Lock 6)** — how public the Clear Sky membership is
 >   at Shrek; the reveal's cost. (Omitted from the 2026-10-03 defaults list —
 >   agent error, recorded in the log.)
 > - **R12 — THE SPINE (Lock 4)** — '______ wants ______ from my protagonist,
->   and will ______ to get it.' All three blanks or there is no story.
+>   and will ______ to get it.' All three blanks or there is no story. (The
+>   2026-10-03 answers that looked like this lane went to the new serial's
+>   premise — they are not a Lock 4 ruling here.)
 >
 > **How to answer:** one line each, your words, or `R11: <the recommended
 > default>` if you want the castle-hidden/no-clan-name recommendation after
@@ -35,7 +38,7 @@
 | **R7** | System or talent | **Adaptation only — NO SYSTEM** | Decides the packs. F14 governs techniques. | ✅ RULED 2026-10-03 |
 | **R8** | Meta knowledge | **Rules, not events** | Keeps firewalls meaningful. | ✅ RULED 2026-10-03 |
 | **R9** | Page 1 + pace | **Starts at 29, rings banked; honest pace after (F8)** | The premise's biggest signal, governed. | ✅ RULED 2026-10-03 |
-| **R10** | **POWER CEILING (Lock 5)** | *no default offered* | The lock that keeps chapter 200 from inflating. | 🔴 OPEN |
+| **R10** | **POWER CEILING (Lock 5)** | *no default offered — the author filled it by refusing to pin it* | The lock that keeps chapter 200 from inflating. | ✅ RULED 2026-10-03 (No-Fix Law) |
 | **R11** | Clan posture (Lock 6) | Raised inside the hidden castle; presents WITHOUT the clan name (world thinks the clan extinct ~1000y) | Identity and its reveal cost. | 🔴 OPEN (omitted from 10-03 list) |
 | **R12** | **THE SPINE (Lock 4)** | *no default offered* | Three blanks or a setting, not a story. | 🔴 OPEN |
 | **R13** | Contact with canon's road | **Parallel until the gates; canon never displaced; walls hold** | Canon-First law. | ✅ RULED 2026-10-03 |
@@ -53,7 +56,7 @@ Control Centre contribution protocol, the separation walls.
 
 ## What Stage 0 still needs
 
-1. **R10, R11, R12 answered by the author** — nothing else blocks them.
+1. **R11, R12 answered by the author** — nothing else blocks them.
 2. Collisions → new R-numbers, never silent fixes.
 3. ~~Core docset built~~ — built 2026-10-03 from the twelve ruled rows; the
    three open lanes are marked OPEN inside it, not filled.

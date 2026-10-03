@@ -20,3 +20,16 @@ Newest at the bottom. Never edit an old line — append a correction instead.
 - Foundation gate run (Control Centre `tools/foundation_gate.py`) — result
   in the same turn's commit.
 - Author's operational steer on record: "Manage all GitHub."
+## 2026-10-03 (later)
+
+- **R10 RULED — the No-Fix Law.** Author's verbatim: "There is no fix in my
+  fen fiction, there is always thing's go naturally, this is rule." Ceiling
+  lock filled by refusing to pin it. Mirrors synced same turn: OPEN_RULINGS,
+  STATUS, POWER_LAW, FOUNDATION, HANDOFF, README, CODEX. Universal copy filed
+  in the Control Centre (`decision#36`).
+- State: 13 of 15 ruled. R11 (clan posture) and R12 (Lock 4) still open —
+  drafting locked, zero chapters.
+- Same-turn context: the author opened a **new third SL1 serial**
+  (`soul-land-1-fire-dragon-lizard`) with premises of his own; his answers
+  that day to R11-shaped and R12-shaped questions went to that serial's
+  premise and are NOT rulings here — recorded as such, no cross-contamination.
