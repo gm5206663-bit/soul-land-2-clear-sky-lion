@@ -1,16 +1,19 @@
 # soul-land-2-clear-sky-lion — Stage 0 foundation
 
-**Status: STAGE 0 OPEN. Drafting locked. Zero chapters — by design.**
+**Status: STAGE 0 — 12 of 15 lanes RULED (2026-10-03, defaults selection);
+R10, R11, R12 OPEN. Drafting LOCKED. Zero chapters — by design.**
 
 The serial: a Clear Sky Sect OC, same age as Huo Yuhao, twin martial souls
 (Clear Sky Hammer + Golden Lion King), womb-born Adaptation Talent, level 29
-at the start of Soul Land 2.
+at the start of Soul Land 2. **No System (R7). Name not ruled — never invented.**
 
 ## Read order
 
-1. `foundation/OPEN_RULINGS.md` — **the fifteen decisions only the author can
-   make.** Answer "defaults" or strike per R. Nothing else until they rule.
-2. `foundation/RULINGS_LOG.md` — answers land here verbatim.
+1. `foundation/RULINGS_LOG.md` — what the author said, verbatim (12 ruled,
+   3 open)
+2. `foundation/OPEN_RULINGS.md` — the three open lanes and why nothing may
+   fill them but the author
+3. `foundation/HANDOFF.md` — cold start for any agent
 
 ## The laws that already bind this repo
 
@@ -25,5 +28,6 @@ at the start of Soul Land 2.
 
 ## Location
 
-Local scaffold only — not yet pushed to GitHub, not yet registered as live in
-the Control Centre until the author reviews.
+Pushed to GitHub; registered in the Control Centre (`project:clear_sky_lion`).
+Docset built 2026-10-03 from the twelve ruled rows — foundation gate green,
+Stage 0 still locked on R10/R11/R12.
