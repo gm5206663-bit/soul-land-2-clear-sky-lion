@@ -1,7 +1,8 @@
 # soul-land-2-clear-sky-lion — Stage 0 foundation
 
-**Status: STAGE 0 — 12 of 15 lanes RULED (2026-10-03, defaults selection);
-R11, R12 OPEN. Drafting LOCKED. Zero chapters — by design.**
+**Status: STAGE 0 — 13 of 15 lanes RULED (2026-10-03, defaults selection +
+the later same-day R10 No-Fix Law ruling); R11, R12 OPEN. Drafting LOCKED.
+Zero chapters — by design.**
 
 The serial: a Clear Sky Sect OC, same age as Huo Yuhao, twin martial souls
 (Clear Sky Hammer + Golden Lion King), womb-born Adaptation Talent, level 29
